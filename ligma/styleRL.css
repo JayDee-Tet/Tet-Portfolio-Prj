@@ -135,6 +135,7 @@ a.nav_logo {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  background-color: rgba(15, 17, 21, 0.98)
 }
 .nav_toggle2_links { 
   display: none;
